@@ -1,0 +1,15 @@
+{
+  "short_name": "ブロック崩し",
+  "name": "Simple Breakout Game",
+  "display": "standalone",
+  "start_url": "index.html",
+  "background_color": "#222222",
+  "theme_color": "#0095DD",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
